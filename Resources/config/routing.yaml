@@ -1,0 +1,3 @@
+index:
+  path: /
+  controller: Firoj\TestDemo\Test\Controller\Customer::index
