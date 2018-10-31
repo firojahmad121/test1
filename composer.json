@@ -1,4 +1,10 @@
 {
     "name":"firoj/test1",
-    "description":"test project"
+    "description":"test project",
+   
+    "autoload": {
+        "psr-4": {
+            "Firoj\\TestDemo\\Test":""
+        }
+    }
 }
