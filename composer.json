@@ -1,10 +1,10 @@
 {
-    "name":"firoj/test1",
-    "description":"test project",
-   
+    "name":"firoj/test",
+    "description":"test project",   
     "autoload": {
         "psr-4": {
-            "Firoj\\TestDemo\\Test":""
+            "Firoj\\TestDemo\\Test\\":""
         }
-    }
+    },    
+    "minimum-stability": "dev"
 }
